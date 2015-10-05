@@ -1,3 +1,7 @@
 # MaterialDesginedButton
 
-![alt tag](https://github.com/ameyjain/iOSAnimateTable/blob/master/rzrf0.gif)
+Material Designed button Menu for iOS using Swift 2
+
+
+
+![alt tag](https://github.com/ameyjain/MaterialDesginedButton/blob/master/MaterialDesignedButton.gif)
